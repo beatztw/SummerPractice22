@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SummerPractice22</string>
+    <string name="Required">required</string>
+    <string name="required">Required</string>
+    <string name="Submit">submit</string>
 </resources>
