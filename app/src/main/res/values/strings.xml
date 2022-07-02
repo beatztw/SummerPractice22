@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">SummerPractice22</string>
+    <string name="app_name">HomeWork2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_profile">Profile</string>
+    <string name="menu_main">Main</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_news">News</string>
 </resources>
