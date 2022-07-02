@@ -49,7 +49,7 @@
     <fragment
         android:id="@+id/musicFragment"
         tools:layout="@layout/fragment_music"
-        android:name="com.example.homework2.MusicFragment"
+        android:name="com.example.summerpractice22.MusicFragment"
         android:label="MusicFragment" >
         <action
             android:id="@+id/action_musicFragment_to_mainFragment"
@@ -68,7 +68,7 @@
     </fragment>
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.example.homework2.ProfileFragment"
+        android:name="com.example.summerpractice22.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" >
         <action
@@ -88,7 +88,7 @@
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.example.homework2.SettingsFragment"
+        android:name="com.example.summerpractice22.SettingsFragment"
         android:label="SettingsFragment"
         tools:layout="@layout/fragment_settings">
         <action
@@ -108,7 +108,7 @@
     </fragment>
     <fragment
         android:id="@+id/newsFragment"
-        android:name="com.example.homework2.NewsFragment"
+        android:name="com.example.summerpractice22.NewsFragment"
         android:label="fragment_news"
         tools:layout="@layout/fragment_news" >
         <action
@@ -142,7 +142,7 @@
     </fragment>
     <fragment
         android:id="@+id/searchFragment"
-        android:name="com.example.homework2.SearchFragment"
+        android:name="com.example.summerpractice22.SearchFragment"
         android:label="fragment_search"
         tools:layout="@layout/fragment_search" >
         <action
